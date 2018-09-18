@@ -15,5 +15,5 @@ featureブランチ[A01](feature/A01)で編集
 featureブランチ[B01](feature/B01)で編集
 
 featureブランチ[G01](feature/G01)で編集 その1
-featureブランチ[G01](feature/G01)で編集 その1
+featureブランチ[G01](feature/G01)で編集 その2
 featureブランチ[G01](feature/G01)で編集 その3
