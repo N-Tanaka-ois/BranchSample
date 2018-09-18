@@ -22,5 +22,5 @@ featureブランチ[H01](feature/H01)で編集 その1
 featureブランチ[H01](feature/H01)で編集 その2
 featureブランチ[H01](feature/H01)で編集 その3
 
-featureブランチ[H01](feature/X01)で編集 その1
-featureブランチ[H01](feature/X01)で編集 その2
+featureブランチ[X01](feature/X01)で編集 その1
+featureブランチ[X01](feature/X01)で編集 その2
